@@ -37,3 +37,7 @@ Example Workflow:
 * Fine-Tuning: Tailors the model for specific use cases, enhancing its domain expertise and accuracy.
 * RAG: Dynamically integrates external knowledge into responses, overcoming the limitations of static model training and ensuring up-to-date and context-aware outputs.
 
+  # Rag Architecture Model
+  ![image](https://github.com/user-attachments/assets/d0cfd154-6bd0-4f64-91fa-22fee08b4073)
+
+
