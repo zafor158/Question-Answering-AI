@@ -1,4 +1,4 @@
-# Question-Answering-AI
+# Bangla Question-Answering-AI
 
 A fine-tuned GPT model to simplify financial queries in Bangla and English for the people of Bangladesh
 
@@ -8,8 +8,8 @@ A fine-tuned GPT model to simplify financial queries in Bangla and English for t
 * 🔍 Context-Aware Responses: Combines retrieved documents and Q&A generation for precision.
 * 🤖 AI-Powered Assistance: Built for individuals and businesses needing accurate financial insights.
 
-# ✨ About BanglaFinGPT
-BanglaFinGPT is a fine-tuned version of Lama 3.2  specialized for financial tasks in Bangladesh. It enables users to effortlessly understand complex financial regulations and make informed decisions.
+# ✨ About Bangla Question-Answering-AI
+Bangla Question-Answering-AI is a fine-tuned version of Lama 3.2  specialized for financial tasks in Bangladesh. It enables users to effortlessly understand complex financial regulations and make informed decisions.
 
 # Application Image
 ![image](https://github.com/user-attachments/assets/a5d36786-bd59-44af-a960-03b5e6729519)
